@@ -16,9 +16,9 @@ Hi there, I'm **Haitam Boukaa**, a **Software Engineering student** 🚀 from Mo
 
 **Talking about Personal Stuffs:**
 
-- 👨 Some of my hobbies are traditional and digital drawing 🎨, reading novels 📔 and gaming 🎮. I'm also learning the Japanese language 🎴;
+- 🧑🏻 Some of my hobbies are traditional and digital drawing 🎨, reading novels 📔 and gaming 🎮. I'm also learning the Japanese language 🎴;
 - 🌱 I’m currently learning [the MERN stack](https://www.mongodb.com/mern-stack); 
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
+- 🎓 I’m pursuing a Bachelor's degree in Software Engineering;
 - 📫 Please email via [bkahaitam@gmail.com](mailto:bkahaitam@gmail.com) to reach me.
 - 📝 See my [Resume](https://drive.google.com/file/d/1paMGGUY9Mjdz8dTku1QkgKmXXejwJ3L9/view?usp=sharing) to get more info.
 
