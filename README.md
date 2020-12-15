@@ -22,11 +22,11 @@ Hi there, I'm **Haitam Boukaa**, a **Software Engineering student** 🚀 from Mo
 - 📫 Please email via [bkahaitam@gmail.com](mailto:bkahaitam@gmail.com) to reach me.
 - 📝 See my [Resume](https://drive.google.com/file/d/1paMGGUY9Mjdz8dTku1QkgKmXXejwJ3L9/view?usp=sharing) to get more info.
 
+### **📊 Metrics**
+<div>
+<img src="https://metrics.lecoq.io/hsusanoo?base.header=0&base.metadata=0&languages=1" width="50%" />
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="45%"/>
-
-![GitHub metrics](https://metrics.lecoq.io/hsusanoo?base.header=0&base.metadata=0&languages=1)
-
-<img src="https://metrics.lecoq.io/hsusanoo?base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year" width="100%" />
+  </div>
 
 <br/><br/>
 
