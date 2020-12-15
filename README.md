@@ -26,7 +26,6 @@ Hi there, I'm **Haitam Boukaa**, a **Software Engineering student** 🚀 from Mo
 
 ![GitHub metrics](https://metrics.lecoq.io/hsusanoo?base.header=0&base.metadata=0&languages=1)
 
-![GitHub metrics](https://metrics.lecoq.io/hsusanoo?base.header=0&base.metadata=0)
 <img src="https://metrics.lecoq.io/hsusanoo?base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year" width="100%" />
 
 <br/><br/>
