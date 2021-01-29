@@ -9,9 +9,7 @@
 <a href="https://twitter.com/bkahaitam">
   <img align="left" alt="Haitam's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
-![Visits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/hsusanoo/hit-counter)
-
+<img align="right" src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fhsusanoo%2Fhit-counter" alt="Profile Visits">
 <br />
 <br />
 
