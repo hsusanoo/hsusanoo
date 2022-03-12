@@ -9,6 +9,7 @@
 <a href="https://twitter.com/bkahaitam">
   <img align="left" alt="Haitam's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+<img align="right" src="https://komarev.com/ghpvc/?username=hsusanoo&style=flat-square"/>
 <br />
 <br />
 
