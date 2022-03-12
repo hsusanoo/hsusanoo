@@ -21,6 +21,15 @@ Hi there, I'm **Haitam Boukaa**, a **Software Engineering student** 🚀 from Mo
 - 🎓 I’m currently pursuing a Bachelor's degree in Software Engineering & CyberSecurity;
 - 📫 Please email via [bkahaitam@gmail.com](mailto:bkahaitam@gmail.com) to reach me.
 
+
+**My Skills:**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,js,ts,nodejs,c,cpp,react,mysql,mongodb" />
+  </a>
+</p>
+
 ### **📊 Metrics**
 <div>
 <img src="https://metrics.lecoq.io/hsusanoo?base.header=0&base.metadata=0&languages=1" width="50%" />
