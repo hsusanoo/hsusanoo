@@ -12,7 +12,7 @@
 <br />
 <br />
 
-Hi there, I'm **Haitam Boukaa**, a **Software Engineering student** 🚀 from Morocco, currently, I'm working on getting my Bachelor of engineering. 
+Hi there, I'm **Haitam Boukaa**, a **Software Engineering student** 🚀 from Morocco, currently, I'm working on getting my Bachelor of Engineering. 
 
 **Talking about Personal Stuffs:**
 
