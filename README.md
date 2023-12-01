@@ -15,6 +15,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,kubernetes,ts,nodejs" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,ts,nodejs" />
   </a>
 </p>
